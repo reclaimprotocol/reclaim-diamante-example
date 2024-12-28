@@ -26,15 +26,14 @@ This project provides a secure and efficient method for proof verification using
     ├── package-lock.json
     ├── package.json
     ├── public
-		├── src
-		│   ├── App.css
-		│   ├── App.jsx
-		│   ├── components
-		│   ├── index.css
-		│   ├── main.jsx
-		│   └── utils
-		├── tailwind.config.js
-		└── vite.config.js
+    ├── src
+    │   ├── App.css
+    │   ├── components
+    │   ├── index.css
+    │   ├── main.jsx
+    │   └── utils
+    ├── tailwind.config.js
+    └── vite.config.js
 ```
 
 ## Key Files
